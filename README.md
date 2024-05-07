@@ -1,6 +1,6 @@
-### EX -09: Implementation-of-Erosion-and-Dilation
-## NAME : VISHAL M.A
-## REG NO : 212222230177
+## EX -09: Implementation-of-Erosion-and-Dilation
+### NAME : VISHAL M.A
+### REG NO : 212222230177
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
